@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+gem "couchdb"
+gem "faker"
+gem "airborne"
+gem "mysql2"
+gem "activerecord"
+gem "activerecord-mysql-adapter"
